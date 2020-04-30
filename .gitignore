@@ -1,0 +1,10 @@
+.vscode/launch.json
+.vscode/settings.json
+OAuthBrowser/__pycache__/__init__.cpython-36.pyc
+OAuthBrowser/__pycache__/__main__.cpython-36.pyc
+OAuthBrowser/__pycache__/browser.cpython-36.pyc
+OAuthBrowser/__pycache__/util.cpython-36.pyc
+OAuthBrowser/__pycache__/wait.cpython-36.pyc
+OAuthBrowser/.DS_Store
+.DS_Store
+Test.py
