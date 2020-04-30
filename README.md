@@ -70,4 +70,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://github.com/Saadmairaj/OAuthBrowser/blob/LICENSE)
+[MIT](https://github.com/Saadmairaj/OAuthBrowser/blob/master/LICENSE.txt)
