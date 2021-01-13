@@ -1,5 +1,4 @@
 import threading
-from urllib.parse import urlparse, parse_qs
 
 
 def threaded(fn):
