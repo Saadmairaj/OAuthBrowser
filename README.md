@@ -1,5 +1,11 @@
 # OAuthBrowser
 
+![PyPI](https://img.shields.io/pypi/v/OAuthBrowser)
+[![Maintainability](https://api.codeclimate.com/v1/badges/5e6ea349636a097fdae1/maintainability)](https://codeclimate.com/github/Saadmairaj/OAuthBrowser/maintainability)
+[![Downloads](https://pepy.tech/badge/oauthbrowser)](https://pepy.tech/project/oauthbrowser)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSaadmairaj%2FOAuthBrowser&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 This module will let you authenticate [OAuth 2.0](https://oauth.net/2/) via system browser and get response URL. Currently supporting **Google Chrome** and **Safari** browsers. Built with *applescript* and [*osascript*](https://ss64.com/osx/osascript.html), only works on Mac OSX. 
 
 A lot more can be done with **OAuthBrowser** like getting source code without getting automation detection from websites.
