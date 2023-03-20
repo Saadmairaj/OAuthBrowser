@@ -43,7 +43,7 @@ class Browser_wrapper:
     def get_all_urls(self):
         "Returns the list of all the active urls."
         cmd = "osascript {}".format(self._cmd_get_active_urls)
-        out = self._run_command().stdout
+        out = self._run_command(cmd).stdout
         if str(out).endswith('\n'):
             out = out[:-2]
         return out.split(', ')
